@@ -170,11 +170,3 @@ In comparison to natural air convection ($h_{\text{nat}} \approx 9.49\text{ W/(m
 * **Dassault Systèmes SolidWorks** (for CAD modifications via `.SLDASM` / `.SLDPRT`) or any CAD viewer supporting `.STEP`
 * **Python 3.x** (for CSV data post-processing and plotting)
 
----
-
-## Author & Citation
-
-**K. M. Mynurdoza**  
-Department of Mechanical Engineering  
-Bangladesh University of Engineering and Technology (BUET)  
-*GitHub:* [@Mynurdoza](https://github.com/Mynurdoza)
